@@ -85,5 +85,4 @@ Deploy project online
 
 👨‍💻 Author
 Prince Joseph Udoewah
-
-✉️ princepiper28@gmail.c
+✉️ princepiper28@gmail.com
