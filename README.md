@@ -88,7 +88,6 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 - **Line Height:** 35px  
 - **Letter Spacing:** 0%  
 
----
 
 ### 📄 Primary Pages
 
@@ -98,7 +97,6 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 | **Listing Detailed View** | Provides detailed information about a specific property. | - Property gallery <br> - Description & amenities <br> - Host information <br> - Reviews & ratings <br> - “Book Now” button |
 | **Simple Checkout View** | Allows the user to confirm booking details and proceed with payment. | - Booking summary (dates, price) <br> - Guest info form <br> - Payment method selection <br> - Confirmation button |
 
----
 
 ### 💡 Importance of Identifying Design Properties
 Identifying **design properties** (like colors, typography, and spacing) in a mockup design is crucial because:  
@@ -108,7 +106,62 @@ Identifying **design properties** (like colors, typography, and spacing) in a mo
 - Saves time during implementation by having a **clear design reference**.  
 - Improves collaboration between designers and developers.  
 
----
+
+
+## 👥 Project Roles and Responsibilities
+
+A successful project requires clear role definitions and accountability. Below are the key roles and their responsibilities in the **AirBnB Clone Project**:
+
+### 📌 1. Project Manager
+- Oversees the overall project execution.  
+- Defines timelines, milestones, and deliverables.  
+- Ensures collaboration and communication across all teams.  
+- Tracks progress and manages risks.  
+
+### 📌 2. Product Owner
+- Defines the product vision and priorities.  
+- Maintains and manages the product backlog.  
+- Acts as the voice of the customer, ensuring the product meets user needs.  
+- Works closely with the Project Manager and Scrum Master to refine requirements.  
+
+### 📌 3. Scrum Master
+- Facilitates agile ceremonies (daily standups, sprint planning, retrospectives).  
+- Removes roadblocks that hinder team progress.  
+- Ensures the team follows agile principles and best practices.  
+- Coaches the team in continuous improvement.  
+
+### 📌 4. Frontend Developers
+- Build the **user interface (UI)** of the application.  
+- Implement responsive and accessible designs.  
+- Integrate frontend with backend APIs.  
+- Ensure performance optimization for fast and smooth user experience.  
+
+### 📌 5. Backend Developers
+- Develop and maintain the **server-side logic**.  
+- Design and implement APIs to connect frontend and database.  
+- Manage authentication, security, and data storage.  
+- Ensure scalability and performance of the backend system.  
+
+### 📌 6. Designers (UI/UX)
+- Create wireframes, mockups, and prototypes in Figma.  
+- Define the **color palette, typography, and style guide**.  
+- Ensure the product is visually appealing and easy to use.  
+- Collaborate with developers to maintain design consistency.  
+
+### 📌 7. QA/Testers
+- Write and execute test cases for features.  
+- Perform **manual and automated testing**.  
+- Identify and document bugs, ensuring they are resolved.  
+- Validate that features meet functional and non-functional requirements.  
+
+### 📌 8. DevOps Engineers
+- Manage project deployment and hosting environments.  
+- Set up CI/CD pipelines for continuous integration and delivery.  
+- Monitor application performance and availability.  
+- Ensure **security, scalability, and reliability** of infrastructure.  
+
+
+✅ Each role contributes to the **success of the project** by ensuring smooth collaboration, timely delivery, and a high-quality product that meets user expectations.  
 
 ## 🛠 Tech Stack
 **Frontend:**  
