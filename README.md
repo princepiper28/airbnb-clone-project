@@ -49,6 +49,8 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 - 📱 Responsive design for web and mobile
   
 
+---
+
 ## 🎨 UI/UX Design Planning
 
 ### 🎯 Design Goals
@@ -58,6 +60,7 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 - Optimize for **mobile-first design**, ensuring accessibility across devices.  
 - Provide a **smooth booking flow** with minimal friction.  
 
+---
 
 ### 🔑 Key Features to Implement
 - **Property Listing View:** Grid/list layout with filters (price, location, availability).  
@@ -66,6 +69,26 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 - **Responsive UI:** Works seamlessly on desktop, tablet, and mobile.  
 - **Consistent navigation:** Persistent header/footer for quick access to key pages.  
 
+---
+
+### 🎨 Design Properties (from Figma)
+
+#### 🎨 Color Styles
+- **Dark Background:** `#222222`  
+- **Primary Accent (Green):** `#389f83`  
+- **Secondary Accent (Yellow):** `#ffad00`  
+- **Neutral Background (Dark):** `#191318`  
+- **Text / Neutral Light:** `#ffffff`  
+
+#### ✍️ Typography
+- **Font Family:** Quicksand  
+- **Font Weight:** 500 (Medium)  
+- **Font Style:** Medium  
+- **Font Size:** 19px  
+- **Line Height:** 35px  
+- **Letter Spacing:** 0%  
+
+---
 
 ### 📄 Primary Pages
 
@@ -75,15 +98,17 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 | **Listing Detailed View** | Provides detailed information about a specific property. | - Property gallery <br> - Description & amenities <br> - Host information <br> - Reviews & ratings <br> - “Book Now” button |
 | **Simple Checkout View** | Allows the user to confirm booking details and proceed with payment. | - Booking summary (dates, price) <br> - Guest info form <br> - Payment method selection <br> - Confirmation button |
 
+---
 
-### 💡 Importance of a User-Friendly Design
-A **user-friendly design** is critical in a booking system because:  
-- It reduces **drop-offs** during booking by providing a clear and simple flow.  
-- It builds **trust** with users through transparency and intuitive navigation.  
-- It ensures **faster decision-making** by highlighting essential details (price, availability, amenities).  
-- It improves **accessibility**, allowing all users (including those on mobile) to interact seamlessly.  
-- It enhances the **overall user experience (UX)**, increasing engagement and customer satisfaction.  
+### 💡 Importance of Identifying Design Properties
+Identifying **design properties** (like colors, typography, and spacing) in a mockup design is crucial because:  
+- It ensures **visual consistency** across all pages and components.  
+- Helps developers translate designs into code more accurately.  
+- Enhances **brand identity** by maintaining consistent fonts and colors.  
+- Saves time during implementation by having a **clear design reference**.  
+- Improves collaboration between designers and developers.  
 
+---
 
 ## 🛠 Tech Stack
 **Frontend:**  
