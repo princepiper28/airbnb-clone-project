@@ -47,7 +47,42 @@ The project follows a modular structure and focuses on replicating core AirBnB f
 - 📅 Booking system with availability tracking
 - ⭐ Reviews and ratings
 - 📱 Responsive design for web and mobile
+  
 
+## 🎨 UI/UX Design Planning
+
+### 🎯 Design Goals
+- Ensure a **clean, intuitive, and responsive** interface for users.  
+- Prioritize **ease of navigation** across property browsing, details, and booking.  
+- Maintain **consistency in layout, typography, and color scheme** to build trust.  
+- Optimize for **mobile-first design**, ensuring accessibility across devices.  
+- Provide a **smooth booking flow** with minimal friction.  
+
+
+### 🔑 Key Features to Implement
+- **Property Listing View:** Grid/list layout with filters (price, location, availability).  
+- **Listing Detailed View:** High-quality images, property details, host info, reviews, and booking button.  
+- **Checkout View:** Simple and secure process with clear steps (dates, payment, confirmation).  
+- **Responsive UI:** Works seamlessly on desktop, tablet, and mobile.  
+- **Consistent navigation:** Persistent header/footer for quick access to key pages.  
+
+
+### 📄 Primary Pages
+
+| Page | Description | Key UI Elements |
+|------|-------------|-----------------|
+| **Property Listing View** | Displays all available properties in a grid or list format with search and filtering options. | - Property image & price <br> - Location & description <br> - Search bar & filters (price, date, location) |
+| **Listing Detailed View** | Provides detailed information about a specific property. | - Property gallery <br> - Description & amenities <br> - Host information <br> - Reviews & ratings <br> - “Book Now” button |
+| **Simple Checkout View** | Allows the user to confirm booking details and proceed with payment. | - Booking summary (dates, price) <br> - Guest info form <br> - Payment method selection <br> - Confirmation button |
+
+
+### 💡 Importance of a User-Friendly Design
+A **user-friendly design** is critical in a booking system because:  
+- It reduces **drop-offs** during booking by providing a clear and simple flow.  
+- It builds **trust** with users through transparency and intuitive navigation.  
+- It ensures **faster decision-making** by highlighting essential details (price, availability, amenities).  
+- It improves **accessibility**, allowing all users (including those on mobile) to interact seamlessly.  
+- It enhances the **overall user experience (UX)**, increasing engagement and customer satisfaction.  
 
 
 ## 🛠 Tech Stack
