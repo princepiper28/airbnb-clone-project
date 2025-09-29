@@ -163,6 +163,47 @@ A successful project requires clear role definitions and accountability. Below a
 
 ✅ Each role contributes to the **success of the project** by ensuring smooth collaboration, timely delivery, and a high-quality product that meets user expectations.  
 
+---
+
+## 🧩 UI Component Patterns
+
+To ensure a **consistent, reusable, and maintainable design system**, the project will be built using modular UI components. Below are some planned components:
+
+### 📌 Navbar
+- Appears at the top of every page.  
+- Provides **navigation links** to Home, Listings, About, and User Profile.  
+- Contains **search bar** and **authentication buttons** (Login/Signup).  
+- Responsive design with a hamburger menu for mobile devices.  
+
+### 📌 Property Card
+- Displays **property details** in a compact card layout.  
+- Includes:  
+  - Property image  
+  - Title & location  
+  - Price per night  
+  - Rating & reviews summary  
+- Clickable to navigate to the **Property Detailed View**.  
+- Optimized for both grid and list layouts.  
+
+### 📌 Footer
+- Appears at the bottom of every page.  
+- Contains:  
+  - Links to “About Us,” “Contact,” and “Privacy Policy.”  
+  - Social media icons.  
+  - Copyright notice.  
+- Responsive design that adapts to small screens.  
+
+### 🔧 Future Planned Components
+- **Search & Filter Bar:** For filtering listings by location, price, date, and amenities.  
+- **Booking Form:** For selecting dates, number of guests, and confirming bookings.  
+- **Review Component:** Allows users to view and submit reviews with ratings.  
+- **Modal / Popup:** For login/signup and booking confirmations.  
+
+✅ By using **reusable UI components**, the project ensures:
+- **Consistency** in design across all pages.  
+- **Scalability** as new features are added.  
+- **Maintainability** since components can be updated independently.  
+
 ## 🛠 Tech Stack
 **Frontend:**  
 - HTML, CSS, JavaScript  
